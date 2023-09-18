@@ -15,7 +15,7 @@ const
 
 function NoteInChord(const Key, Note: TSemitone; const OpenString: Boolean; const Chord: TChord): string;
 var
-  interval: TSemitone;
+  interval: Byte;
 begin
   if Note >= Key then interval := Note - Key else interval := Note - Key + 12;
   if interval in Chord then Exit(NOTE_NAMES[note]);
