@@ -1,4 +1,7 @@
 # Viola Chords
-Create major, minor, dominant, diminished chords on the viola (or violin)
+Create major 6th, minor 7th, dominant 7th and diminished chords charts for the viola (or violin)
 
-Can add/modify strings (for different instrument), keys, chord types
+Can add/modify
+- strings (for different instrument)
+- keys
+- chord types
