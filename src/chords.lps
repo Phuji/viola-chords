@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="chords.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="28" Y="12"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="17" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="34" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="45" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="6" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="20" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="13" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="6" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="13" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="16" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="25" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="18" Column="102"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="26" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="14" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="4" Column="12"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
