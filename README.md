@@ -8,27 +8,29 @@ Can add/modify
 
 ## How to use
 Install Lazarus (Free Pascal IDE/Compiler)
+
 Creates a command line program that generates fingering for chords for the viola
 
-## Example output
+## Sample output
 
 ```
-A  Major 6    Minor 7    Dominant   Diminished
-   x x x A    C G x A    x G x A    C x x A 
-   C#| | |    | | | |    C#| | |    | | E♭| 
-   | A E |    | A E |    | A E |    | A | | 
-   | | | |    | | | C    | | | |    E♭| | C 
-   E | F#C#   E | | |    E | | C#   | | F#| 
-   | | | |    | C G |    | | G |    | C | | 
-   F#C#| |    | | | |    | C#| |    F#| | E♭
+C  Major 6    Minor 7    Dominant   Diminished
+   C G x A    C G x x    C G x x    C x x A 
+   | | | |    | | E♭B♭   | | | B♭   | | E♭| 
+   | A E |    | | | |    | | E |    | A | | 
+   | | | C    E♭B♭| C    | B♭| C    E♭| | C 
+   E | | |    | | | |    E | | |    | | F#| 
+   | C G |    | C G |    | C G |    | C | | 
+   | | | |    | | | E♭   | | | |    F#| | E♭
 
-B♭ Major 6    Minor 7    Dominant   Diminished
-   x G D x    x x x x    x x D x    x G x x 
-   | | | B♭   C#A♭| B♭   | A♭| B♭   C#| | B♭
-   D | | |    | | | |    D | | |    | | E | 
-   | B♭F |    | B♭F |    | B♭F |    | B♭| | 
-   | | | |    | | | C#   | | | |    E | | C#
-   F | G D    F | | |    F | | D    | | G | 
-   | | | |    | C#A♭|    | | A♭|    | C#| | 
+D  Major 6    Minor 7    Dominant   Diminished
+   x x D A    C x D A    C x D A    x x D x 
+   | | | |    | | | |    | | | |    | A♭| | 
+   D A | B    D A | |    D A | |    D | | B 
+   | | | |    | | F C    | | | C    | | F | 
+   | B F#|    | | | |    | | F#|    | B | | 
+   | | | D    F C | D    | C | D    F | | D 
+   F#| | |    | | | |    F#| | |    | | A♭| 
+
 ```
 
