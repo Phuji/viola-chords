@@ -8,12 +8,12 @@
         <Filename Value="chords.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos Y="23"/>
+        <CursorPos X="51" Y="25"/>
         <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="16">
+    <JumpHistory HistoryIndex="18">
       <Position>
         <Filename Value="chords.lpr"/>
         <Caret Line="17" Column="59"/>
@@ -81,6 +81,14 @@
       <Position>
         <Filename Value="chords.lpr"/>
         <Caret Line="27" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="28" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="chords.lpr"/>
+        <Caret Line="56" Column="62"/>
       </Position>
     </JumpHistory>
     <RunParams>
